@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Dan-Cervantes/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Dan-Cervantes/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/Dan-Cervantes/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
